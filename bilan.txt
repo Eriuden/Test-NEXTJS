@@ -1,0 +1,17 @@
+Afin d'ajouter une corde à mon arc, tout en restant sur un arc JS, j'ai pris la peine de tester NextJS, avec, comme le tuto le proposait, et que celui ci est en
+passe de s'ériger comme norme absolue du JS, un code en TS
+
+Si personellement je comprends l'intérêt de typescript, je continue à penser qu'il est une véritable plaie de coder avec, celui ci pouvant parfois préciser des erreurs
+du jour au lendemain (au sens propre dans mon cas, uniquement de mon côté car pas de soucis dans le tuto, donc difficile à comprendre), adoptant donc un aspect
+très capricieux, il me semble important de le dire car c'est l'une des rares techs où il est très rare d'entendre la moindre critique, or, une techno parfaite,
+ca n'existe pas.
+
+Pour nextJS, un point personnel me dérangeant avec est son manque de séparation entre le front et le back, lors du create next app, l'architecture va consister en un
+dossier app et un src, on est donc tenté de penser qu'il s'agit du back et front, mais pas tout à fait, puisque on retrouve bien du JSX dans les fichiers natifs d'app,
+on a du mal au départ à savoir qui est qui, là ou la structure classique react/node est beaucoup plus séparée et lisible.
+
+Le véritable intêret de NextJS repose en fait sur un unique point: son SEO exceptionnel, il est vrai que, de base, react/node n'a rien de transcendant à proposer
+la dessus, et que dans le résultat final, c'est surtout ça qui intéresse le client.
+
+Pour l'instant, je ne trouve pas plaisant de coder avec NextJS, pour TS, j'ai déjà codé quelque fois avec et ne peux vraiment pas dire que c'est agréable,
+en revanche, je n'ai pas de mal à entendre les arguments sur la qualité des sites fondés avec, bien que poussés avec un certain manque de recul à mes yeux
